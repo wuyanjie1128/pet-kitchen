@@ -1,0 +1,203 @@
+Breed,FCI Group,Region,Size Class,Notes
+Mixed Breed / Unknown,N/A,Global,Unknown,For rescues or uncertain lineage
+
+# Group 1 - Sheepdogs and Cattle Dogs
+German Shepherd Dog,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Belgian Malinois,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Belgian Tervuren,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Belgian Groenendael,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Belgian Laekenois,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Border Collie,Group 1 - Sheepdogs and Cattle Dogs,Europe,Medium,
+Rough Collie,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Smooth Collie,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Shetland Sheepdog,Group 1 - Sheepdogs and Cattle Dogs,Europe,Small,
+Old English Sheepdog,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Australian Shepherd,Group 1 - Sheepdogs and Cattle Dogs,Oceania,Medium,
+Miniature American Shepherd,Group 1 - Sheepdogs and Cattle Dogs,North America,Small,
+Australian Cattle Dog,Group 1 - Sheepdogs and Cattle Dogs,Oceania,Medium,
+Cardigan Welsh Corgi,Group 1 - Sheepdogs and Cattle Dogs,Europe,Small,
+Pembroke Welsh Corgi,Group 1 - Sheepdogs and Cattle Dogs,Europe,Small,
+Briard,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Bearded Collie,Group 1 - Sheepdogs and Cattle Dogs,Europe,Medium,
+Bergamasco Sheepdog,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Mudi,Group 1 - Sheepdogs and Cattle Dogs,Europe,Medium,
+Pumi,Group 1 - Sheepdogs and Cattle Dogs,Europe,Medium,
+Puli,Group 1 - Sheepdogs and Cattle Dogs,Europe,Medium,
+Dutch Shepherd,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+White Swiss Shepherd Dog,Group 1 - Sheepdogs and Cattle Dogs,Europe,Large,
+Pyrenean Shepherd,Group 1 - Sheepdogs and Cattle Dogs,Europe,Small,
+Catahoula Leopard Dog,Group 1 - Sheepdogs and Cattle Dogs,North America,Large,Working heritage
+
+# Group 2 - Pinscher, Schnauzer, Molossoid, Swiss Mountain Dogs
+Doberman Pinscher,Group 2 - Pinscher and Schnauzer,Europe,Large,
+Miniature Pinscher,Group 2 - Pinscher and Schnauzer,Europe,Small,
+German Pinscher,Group 2 - Pinscher and Schnauzer,Europe,Medium,
+Austrian Pinscher,Group 2 - Pinscher and Schnauzer,Europe,Medium,
+Schnauzer (Giant),Group 2 - Pinscher and Schnauzer,Europe,Large,
+Schnauzer (Standard),Group 2 - Pinscher and Schnauzer,Europe,Medium,
+Schnauzer (Miniature),Group 2 - Pinscher and Schnauzer,Europe,Small,
+Rottweiler,Group 2 - Molossoid and related,Europe,Large,
+Boxer,Group 2 - Molossoid and related,Europe,Large,
+Bullmastiff,Group 2 - Molossoid and related,Europe,Giant,
+English Mastiff,Group 2 - Molossoid and related,Europe,Giant,
+Neapolitan Mastiff,Group 2 - Molossoid and related,Europe,Giant,
+Cane Corso,Group 2 - Molossoid and related,Europe,Large,
+Dogue de Bordeaux,Group 2 - Molossoid and related,Europe,Giant,
+Great Dane,Group 2 - Molossoid and related,Europe,Giant,
+Saint Bernard,Group 2 - Swiss Mountain Dogs,Europe,Giant,
+Bernese Mountain Dog,Group 2 - Swiss Mountain Dogs,Europe,Giant,
+Greater Swiss Mountain Dog,Group 2 - Swiss Mountain Dogs,Europe,Giant,
+Appenzell Cattle Dog,Group 2 - Swiss Mountain Dogs,Europe,Large,
+Entlebucher Mountain Dog,Group 2 - Swiss Mountain Dogs,Europe,Medium,
+Newfoundland,Group 2 - Molossoid and related,Europe,Giant,
+Leonberger,Group 2 - Molossoid and related,Europe,Giant,
+Tibetan Mastiff,Group 2 - Molossoid and related,Asia,Giant,
+Boerboel,Group 2 - Molossoid and related,Africa,Giant,
+Fila Brasileiro,Group 2 - Molossoid and related,South America,Giant,
+American Bulldog,Group 2 - Molossoid and related,North America,Large,
+
+# Group 3 - Terriers
+Airedale Terrier,Group 3 - Terriers,Europe,Large,
+Bull Terrier,Group 3 - Terriers,Europe,Medium,
+Staffordshire Bull Terrier,Group 3 - Terriers,Europe,Medium,
+American Staffordshire Terrier,Group 3 - Terriers,North America,Large,
+West Highland White Terrier,Group 3 - Terriers,Europe,Small,
+Cairn Terrier,Group 3 - Terriers,Europe,Small,
+Scottish Terrier,Group 3 - Terriers,Europe,Small,
+Norfolk Terrier,Group 3 - Terriers,Europe,Small,
+Norwich Terrier,Group 3 - Terriers,Europe,Small,
+Border Terrier,Group 3 - Terriers,Europe,Small,
+Jack Russell Terrier,Group 3 - Terriers,Europe,Small,
+Parson Russell Terrier,Group 3 - Terriers,Europe,Small,
+Wire Fox Terrier,Group 3 - Terriers,Europe,Small,
+Smooth Fox Terrier,Group 3 - Terriers,Europe,Small,
+Kerry Blue Terrier,Group 3 - Terriers,Europe,Medium,
+Irish Terrier,Group 3 - Terriers,Europe,Medium,
+Soft Coated Wheaten Terrier,Group 3 - Terriers,Europe,Medium,
+Australian Terrier,Group 3 - Terriers,Oceania,Small,
+Yorkshire Terrier,Group 3 - Terriers,Europe,Toy,
+Silky Terrier,Group 3 - Terriers,Oceania,Small,
+Miniature Bull Terrier,Group 3 - Terriers,Europe,Small,
+
+# Group 4 - Dachshunds
+Dachshund (Standard),Group 4 - Dachshunds,Europe,Small,
+Dachshund (Miniature),Group 4 - Dachshunds,Europe,Toy,
+Dachshund (Wirehaired),Group 4 - Dachshunds,Europe,Small,
+
+# Group 5 - Spitz and Primitive types
+Siberian Husky,Group 5 - Spitz and Primitive types,Europe,Large,
+Alaskan Malamute,Group 5 - Spitz and Primitive types,North America,Giant,
+Samoyed,Group 5 - Spitz and Primitive types,Europe,Large,
+Akita,Group 5 - Spitz and Primitive types,Asia,Large,
+American Akita,Group 5 - Spitz and Primitive types,North America,Large,
+Shiba Inu,Group 5 - Spitz and Primitive types,Asia,Medium,
+Korean Jindo,Group 5 - Spitz and Primitive types,Asia,Medium,
+Chow Chow,Group 5 - Spitz and Primitive types,Asia,Large,
+Keeshond,Group 5 - Spitz and Primitive types,Europe,Medium,
+Pomeranian,Group 5 - Spitz and Primitive types,Europe,Toy,
+Finnish Spitz,Group 5 - Spitz and Primitive types,Europe,Medium,
+Norwegian Elkhound,Group 5 - Spitz and Primitive types,Europe,Medium,
+Icelandic Sheepdog,Group 5 - Spitz and Primitive types,Europe,Medium,
+Basenji,Group 5 - Spitz and Primitive types,Africa,Medium,
+Thai Ridgeback,Group 5 - Spitz and Primitive types,Asia,Large,
+Pharaoh Hound,Group 5 - Spitz and Primitive types,Europe,Large,
+Xoloitzcuintli,Group 5 - Spitz and Primitive types,North America,Small/Medium,Primitive heritage
+Peruvian Inca Orchid,Group 5 - Spitz and Primitive types,South America,Medium,Primitive heritage
+Kishu Ken,Group 5 - Spitz and Primitive types,Asia,Medium,
+Kai Ken,Group 5 - Spitz and Primitive types,Asia,Medium,
+Shikoku,Group 5 - Spitz and Primitive types,Asia,Medium,
+Hokkaido,Group 5 - Spitz and Primitive types,Asia,Medium,
+
+# Group 6 - Scent hounds and related breeds
+Beagle,Group 6 - Scent hounds and related breeds,Europe,Medium,
+Basset Hound,Group 6 - Scent hounds and related breeds,Europe,Medium,
+Bloodhound,Group 6 - Scent hounds and related breeds,Europe,Large,
+Coonhound (Black and Tan),Group 6 - Scent hounds and related breeds,North America,Large,
+Coonhound (Redbone),Group 6 - Scent hounds and related breeds,North America,Large,
+Coonhound (Treeing Walker),Group 6 - Scent hounds and related breeds,North America,Large,
+Dachshund (as hound type),Group 6 - Scent hounds and related breeds,Europe,Small,Also listed in Group 4
+Harrier,Group 6 - Scent hounds and related breeds,Europe,Medium,
+Rhodesian Ridgeback,Group 6 - Scent hounds and related breeds,Africa,Large,
+Afghan-like Scent Hound Types,Group 6 - Scent hounds and related breeds,Asia,Large,Regional variants exist
+
+# Group 7 - Pointing Dogs
+German Shorthaired Pointer,Group 7 - Pointing Dogs,Europe,Large,
+German Wirehaired Pointer,Group 7 - Pointing Dogs,Europe,Large,
+English Pointer,Group 7 - Pointing Dogs,Europe,Large,
+Vizsla,Group 7 - Pointing Dogs,Europe,Medium,
+Weimaraner,Group 7 - Pointing Dogs,Europe,Large,
+Brittany,Group 7 - Pointing Dogs,Europe,Medium,
+Irish Setter,Group 7 - Pointing Dogs,Europe,Large,
+Gordon Setter,Group 7 - Pointing Dogs,Europe,Large,
+English Setter,Group 7 - Pointing Dogs,Europe,Large,
+
+# Group 8 - Retrievers, Flushing Dogs, Water Dogs
+Labrador Retriever,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Large,
+Golden Retriever,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Large,
+Flat-Coated Retriever,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Large,
+Curly-Coated Retriever,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Large,
+Chesapeake Bay Retriever,Group 8 - Retrievers, Flushing Dogs, Water Dogs,North America,Large,
+Nova Scotia Duck Tolling Retriever,Group 8 - Retrievers, Flushing Dogs, Water Dogs,North America,Medium,
+English Springer Spaniel,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Medium,
+Cocker Spaniel,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Small,
+American Cocker Spaniel,Group 8 - Retrievers, Flushing Dogs, Water Dogs,North America,Small,
+English Cocker Spaniel,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Small,
+Portuguese Water Dog,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Large,
+Spanish Water Dog,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Medium,
+Lagotto Romagnolo,Group 8 - Retrievers, Flushing Dogs, Water Dogs,Europe,Medium,
+
+# Group 9 - Companion and Toy Dogs
+Pug,Group 9 - Companion and Toy Dogs,Asia,Small,
+French Bulldog,Group 9 - Companion and Toy Dogs,Europe,Small,
+Bulldog,Group 9 - Companion and Toy Dogs,Europe,Medium,
+Boston Terrier,Group 9 - Companion and Toy Dogs,North America,Small,
+Cavalier King Charles Spaniel,Group 9 - Companion and Toy Dogs,Europe,Small,
+King Charles Spaniel,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Maltese,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Bichon Frise,Group 9 - Companion and Toy Dogs,Europe,Small,
+Havanese,Group 9 - Companion and Toy Dogs,North America,Small,
+Shih Tzu,Group 9 - Companion and Toy Dogs,Asia,Toy,
+Lhasa Apso,Group 9 - Companion and Toy Dogs,Asia,Small,
+Pekingese,Group 9 - Companion and Toy Dogs,Asia,Toy,
+Japanese Chin,Group 9 - Companion and Toy Dogs,Asia,Toy,
+Papillon,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Pomeranian,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Chihuahua,Group 9 - Companion and Toy Dogs,North America,Toy,
+Chinese Crested,Group 9 - Companion and Toy Dogs,Asia,Toy,
+Coton de Tulear,Group 9 - Companion and Toy Dogs,Africa,Small,
+Brussels Griffon,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Affenpinscher,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Miniature Poodle,Group 9 - Companion and Toy Dogs,Europe,Small,
+Toy Poodle,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Italian Greyhound,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Yorkshire Terrier,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Russian Toy,Group 9 - Companion and Toy Dogs,Europe,Toy,
+Bolognese,Group 9 - Companion and Toy Dogs,Europe,Small,
+Lowchen,Group 9 - Companion and Toy Dogs,Europe,Small,
+
+# Group 10 - Sighthounds
+Greyhound,Group 10 - Sighthounds,Europe,Large,
+Whippet,Group 10 - Sighthounds,Europe,Medium,
+Saluki,Group 10 - Sighthounds,Middle East,Large,
+Afghan Hound,Group 10 - Sighthounds,Asia,Large,
+Borzoi,Group 10 - Sighthounds,Europe,Giant,
+Irish Wolfhound,Group 10 - Sighthounds,Europe,Giant,
+Italian Greyhound,Group 10 - Sighthounds,Europe,Toy,
+Scottish Deerhound,Group 10 - Sighthounds,Europe,Giant,
+
+# Additional widely recognized breeds & regional types
+Shihpoo (Designer),N/A,Global,Small,Designer mix
+Cockapoo (Designer),N/A,Global,Small,Designer mix
+Labradoodle (Designer),N/A,Global,Medium/Large,Designer mix
+Goldendoodle (Designer),N/A,Global,Medium/Large,Designer mix
+American Eskimo Dog,N/A,North America,Small/Medium,Spitz-type classification varies
+Shiba Mix,N/A,Global,Small/Medium,Common companion mix
+Korean Sapsaree,N/A,Asia,Large,National heritage breed
+Tosa,N/A,Asia,Large,Japanese mastiff-type
+Caucasian Shepherd Dog,N/A,Europe/Asia,Giant,Also called Caucasian Ovcharka
+Central Asian Shepherd Dog,N/A,Europe/Asia,Giant,Also called Alabai
+Great Pyrenees,N/A,Europe,Giant,Livestock guardian type
+Anatolian Shepherd Dog,N/A,Middle East,Giant,Livestock guardian type
+Kuvasz,N/A,Europe,Large,Livestock guardian type
+Komondor,N/A,Europe,Large,Livestock guardian type
+Maremma Sheepdog,N/A,Europe,Large,Livestock guardian type
